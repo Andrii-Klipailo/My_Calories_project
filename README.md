@@ -75,8 +75,8 @@ RETURN COALESCE(AVG_period, 0)
 
 Using Power BI's visualization capabilities and DAX for calculating key metrics, I was able to conduct an extensive analysis of my eating habits. With the ability to accumulate and update data, I will be able to continue using this dashboard for further analysis and control of my diet to achieve my goals (in this case, weight gain).
 
-#####This project is designed to allow the input data to be replaced, making it adaptable for other users to use for their own goals.
+##### This project is designed to allow the input data to be replaced, making it adaptable for other users to use for their own goals.
 
-#####I invite you to download and use this project.
+##### I invite you to download and use this project.
 
-####Thank you for your time and attention!
+#### Thank you for your time and attention!
