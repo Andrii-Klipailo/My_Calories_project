@@ -1,5 +1,5 @@
 # My Calories Tracker Project  
-**Self-tracking dashboard for calorie intake and weight management using Power BI**
+**Self-tracking dashboard for calorie intake and weight management**
 
 ![logo](https://github.com/Andrii-Klipailo/My_Calories_project/blob/main/logo.jpg)
 
